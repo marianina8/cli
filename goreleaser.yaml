@@ -46,6 +46,6 @@ brews:
     homepage: https://github.com/marianina8
     tap:
       owner: marianina8
-      name: homebrew-cli
+      name: homebrew-cliworkshop
     commit_author:
       name: marianina8
