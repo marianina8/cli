@@ -1,1 +1,1 @@
-# cli
+# Example CLI
